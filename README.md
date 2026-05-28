@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Pranavi! 👋 🧬
 
-<!--
-**somulapranavi-web/somulapranavi-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a **Bioinformatics Undergraduate Student** passionate about leveraging computational tools to solve biological problems, analyze genomic data, and extract meaningful insights from complex datasets.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧬 What I'm Learning & Using:
+* **Languages:** Python 🐍, R 📊, Bash/Linux 💻
+* **Bioinformatics Tools:** Biopython, Bioconductor, BLAST
+* **Interests:** Genomics, Molecular Modeling, and Data Visualization
+
+---
+
+### 🔬 Current Goals:
+* Building Python scripts to automate DNA/RNA sequence analysis.
+* Learning how to handle large biological datasets in R.
+* Collaborating on open-source bioinformatics workflows.
+
+---
+*"In the center of science is data, and in the center of life is the genetic code."*
