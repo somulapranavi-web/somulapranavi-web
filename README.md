@@ -2,7 +2,7 @@
 
 Welcome to my GitHub space! I am a **Bioinformatics Undergraduate Student** passionate about leveraging computational tools to solve biological problems, analyze genomic data, and extract meaningful insights from complex biological systems.
 
-I love bridging the gap between computer science and the code of life.
+Bridging the gap between computer science and the code of life.
 
 ---
 
