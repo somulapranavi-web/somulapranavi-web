@@ -1,4 +1,4 @@
-# Hey there! I'm Pranavi 👋 🧬
+# Hi, I'm Pranavi! 👋 🧬
 
 Welcome to my GitHub space! I am a **Bioinformatics Undergraduate Student** passionate about leveraging computational tools to solve biological problems, analyze genomic data, and extract meaningful insights from complex biological systems.
 
@@ -6,7 +6,7 @@ Bridging the gap between computer science and the code of life.
 
 ---
 
-### 🛠️ My Toolbox & Skills
+## 🛠️ Toolbox & Skills
 
 <p align="left">
   <!-- Languages -->
@@ -31,7 +31,7 @@ Bridging the gap between computer science and the code of life.
 
 ---
 
-### 🤝 Let's Connect!
+## 🤝 Let's Connect!
 
 If you want to talk about bioinformatics, computational biology, or open-source software, feel free to reach out!
 
@@ -41,4 +41,4 @@ If you want to talk about bioinformatics, computational biology, or open-source 
   </a>
 </p>
 
-*"🧬 Decoding life through data, AI, and scientific curiosity. ✨"*
+> *"🧬 Decoding life through data, AI, and scientific curiosity. ✨"*
