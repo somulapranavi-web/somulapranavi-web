@@ -24,13 +24,14 @@ I love bridging the gap between computer science and the code of life.
 
 ---
 
-### 🎯 Current Focus & Goals
+## 🎯 Current Goals & Focus
 
-* 🧬 **AI & Healthcare:** Building AI-powered solutions for biomedical research.
-* 🔬 **Research:** Working toward a publishable Bioinformatics project.
-* 📚 **Growth:** Learning computational genomics and machine learning.
-* 🚀 **Future:** Preparing for research internships and graduate studies abroad.
-* ❤️ **Impact:** Solving real-world healthcare challenges through data science.
+- 📚 **Bioinformatics Foundation:** Strengthening my core knowledge in Computational Biology, Genomics, and Transcriptomics.
+- 🧬 **AI + Bioinformatics Research:** Completing a research-oriented final-year project to develop publishable AI tools for biomedical research.
+- 📑 **Publications:** Submitting a manuscript to a conference/journal and publishing my first research paper.
+- 🐍 **Software Development:** Improving Python & R skills for biological data analysis and contributing to open-source software.
+- 🎓 **Future Studies:** Preparing a strong academic profile for MS/PhD opportunities abroad.
+- 🚀 **Impact:** Creating technology at the intersection of AI, healthcare, and drug discovery to improve human health.
 
 ---
 
