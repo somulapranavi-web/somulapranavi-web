@@ -26,7 +26,6 @@ Bridging the gap between computer science and the code of life.
 ## 🎯 Current Goals & Focus
 
 - 📚 **Bioinformatics Foundation:** Strengthening my core knowledge in Computational Biology, Genomics, and Transcriptomics.
-- 🧬 **AI + Bioinformatics Research:** Completing a research-oriented final-year project to develop publishable AI tools for biomedical research.
 - 🐍 **Software Development:** Improving Python & R skills for biological data analysis and contributing to open-source software.
 - 🚀 **Impact:** Creating technology at the intersection of AI, healthcare, and drug discovery to improve human health.
 
