@@ -24,25 +24,13 @@ I love bridging the gap between computer science and the code of life.
 
 ---
 
-### 🔬 Featured Projects
+### 🎯 Current Focus & Goals
 
-#### 🧬 [Pairwise Sequence Aligner](https://github.com/somulapranavi-web/pairwise_aligner)
-A Python 3 implementation of classic pairwise alignment algorithms from scratch.
-* **Algorithms:** Global Alignment (Needleman-Wunsch) and Local Alignment (Smith-Waterman).
-* **Application:** Aligned Human vs. Mouse Insulin preproproteins to study signal peptide divergence and mature chain conservation.
-* **Features:** Automatic unit-testing suite, CSV scoring matrix exporting, and high-resolution dynamic programming heatmap visualizations.
-
-#### 📊 [Simulated RNA-Seq Pipeline](https://github.com/somulapranavi-web/pairwise_aligner/tree/main/rnaseq_pipeline) (In Progress)
-An end-to-end Next-Generation Sequencing (NGS) data analysis workflow.
-* **Pipeline:** Simulated paired-end sequencing reads $\rightarrow$ FastQC & MultiQC quality assessment $\rightarrow$ Salmon quantification $\rightarrow$ R/DESeq2 differential expression analysis.
-* **Output:** Generates statistical gene-level abundance reports and volcano plot visualizations.
-
----
-
-### 🌱 Current Learning Goals
-* Optimizing genomic algorithms for large datasets.
-* Extending sequence alignment methods to support affine gap penalties.
-* Diving deeper into transcriptomics and RNA-Seq analysis.
+* 🧬 **AI & Healthcare:** Building AI-powered solutions for biomedical research.
+* 🔬 **Research:** Working toward a publishable Bioinformatics project.
+* 📚 **Growth:** Learning computational genomics and machine learning.
+* 🚀 **Future:** Preparing for research internships and graduate studies abroad.
+* ❤️ **Impact:** Solving real-world healthcare challenges through data science.
 
 ---
 
